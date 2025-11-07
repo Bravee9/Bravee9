@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Bravee9!
+# 👋 Hi there, I'm Brave 9!
 
 ### 🎓 3rd Year Computer Science Student | 🐍 Python & Java Developer | 💻 Backend Development
 
