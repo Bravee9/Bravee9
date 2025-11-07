@@ -32,7 +32,7 @@ I'm a developer passionate about **security**, **systems**, and building tools t
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Bravee9/Bravee9/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
