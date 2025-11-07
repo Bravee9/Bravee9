@@ -50,9 +50,9 @@ I'm a passionate **Full-Stack Developer** specializing in **Security**, **Machin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎯 Specializations
-![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=spring&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
