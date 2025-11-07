@@ -1,24 +1,97 @@
-# Welcome to Bravee9's Repository
+<div align="center">
+  
+# 👋 Hi there, I'm Bravee9!
 
-This repository showcases my ongoing learning and projects as an undergraduate student pursuing opportunities in the tech industry.
+### 🎓 3rd Year Computer Science Student | 🐍 Python & Java Developer | 💻 Backend Development
 
-## About Me
-I am currently exploring various areas in software development, including web development and machine learning. I strive to continuously learn and apply new technologies to enhance my skills.
+[![Profile Views](https://komarev.com/ghpvc/?username=Bravee9&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Bravee9)
+[![GitHub followers](https://img.shields.io/github/followers/Bravee9?style=for-the-badge&color=blue)](https://github.com/Bravee9?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Bravee9?style=for-the-badge&color=yellow)](https://github.com/Bravee9)
 
-## Skills
-- Proficient in Python and JavaScript.
-- Experience with HTML, CSS, and basic frameworks like React.
-- Familiar with Git and version control practices.
-- Understanding of algorithms and data structures.
+</div>
 
-## Projects
-Here are a few projects I have worked on:
+---
 
-- **Personal Portfolio Website**: A responsive website to showcase my work.
-- **Data Analysis Project**: Analysis of real-world datasets using Python.
+## 🚀 About Me
 
-## Learning Journey
-I believe in consistent learning and growth. Currently, I am enhancing my skills through online courses, practical coding exercises, and collaborative projects.
+Hello! I'm a 3rd-year Computer Science student at **Hanoi University of Science - Vietnam National University (HUS-VNU)**, passionate about learning and building practical applications. I'm actively working on developing my skills in **Backend Development**, **Machine Learning**, and **Software Development** through hands-on projects and coursework.
 
-## Contact
-Feel free to reach out via GitHub or connect with me on LinkedIn for any internship opportunities or collaborations!
+- 🔭 Currently developing an **XGBoost-based Machine Learning project** for real-world problem solving
+- 🌱 Learning **Spring Boot 3** and building RESTful APIs with best practices
+- 💻 Gaining experience with **Python**, **Java**, and modern development tools
+- 🐳 Exploring **Docker** containerization for application deployment
+- 🎯 Seeking an **internship opportunity** to apply and expand my technical skills
+- 📫 Open to learning from experienced developers and contributing to team projects!
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bravee9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravee9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bravee9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Current Projects & Learning
+
+```python
+class MyJourney:
+    def __init__(self):
+        self.current_projects = [
+            "🤖 XGBoost Machine Learning model (in development)",
+            "🚀 Spring Boot 3 RESTful API project",
+            "🐳 Docker containerization learning"
+        ]
+        
+        self.technical_skills = [
+            "Backend development with Spring Boot",
+            "Machine Learning model building with scikit-learn & XGBoost",
+            "Database design and SQL queries",
+            "API testing with Postman",
+            "Version control with Git"
+        ]
+        
+        self.learning_goals = [
+            "Master Spring Boot and microservices concepts",
+            "Build production-ready machine learning models",
+            "Contribute to open-source projects",
+            "Develop professional software engineering practices"
+        ]
+        
+        self.seeking = "Internship opportunity to grow and apply my skills!"
