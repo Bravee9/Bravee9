@@ -34,7 +34,7 @@ I'm a developer passionate about **security**, **systems**, and building tools t
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Bravee9/Bravee9/output/github-contribution-grid-snake.svg)
 
 </div>
 
