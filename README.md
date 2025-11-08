@@ -29,7 +29,7 @@ Hello! I'm a 3rd-year Computer Science student at **Hanoi University of Science 
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,7 +75,7 @@ class MyJourney:
     def __init__(self):
         self.current_projects = [
             "🤖 XGBoost Machine Learning model (in development)",
-            "🚀 Spring Boot 3 RESTful API project",
+            "🚀 Spring Boot 3 RESTful API project (in developement)",
             "🐳 Docker containerization learning"
         ]
         
