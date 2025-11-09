@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm a 3rd-year Computer Science student at **Hanoi University of Science - Vietnam National University (HUS-VNU)**, passionate about learning and building practical applications. I'm actively working on developing my skills in **Backend Development**, **Machine Learning**, and **Software Development** through hands-on projects and coursework.
+Hello! I'm a 3rd-year Computer Science student at **Hanoi University of Science - Vietnam National University (HUS-VNU)**, passionate about learning and building practical applications. I'm actively working on developing my skills in **Backend Development**, **Machine Learning**, and **Cybersecurity** through hands-on projects and coursework.
 
 - 🔭 Currently developing an **XGBoost-based Machine Learning project** for real-world problem solving
 - 🌱 Learning **Spring Boot 3** and building RESTful APIs with best practices
