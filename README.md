@@ -65,4 +65,9 @@ I am passionate about **Backend Engineering**, **Cybersecurity**, and digging de
 - **LinkedIn**: [Brave9](https://www.linkedin.com/in/brave9/)
 - **Portfolio**: Currently building my portfolio
 
+## 🎯 2025 Goals
+- [ ] Complete XGBoost ML project
+- [ ] Contribute to open source
+- [ ] Build portfolio website
+
 *Open to internship opportunities and technical collaborations.*
