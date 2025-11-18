@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 # Hi, I'm Brave 9!
 
-### 3rd Year CS Student | Python & Java Developer | Backend Development
+### CS Student @ HUS-VNU • Backend Dev • Security & System Optimization
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bravee9&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Bravee9)
 [![GitHub followers](https://img.shields.io/github/followers/Bravee9?style=for-the-badge&color=blue)](https://github.com/Bravee9?tab=followers)
@@ -14,15 +14,16 @@
 
 ## About Me
 
-Hey! I'm a 3rd-year Computer Science student at **Hanoi University of Science - Vietnam National University (HUS-VNU)**. I love building stuff and learning new tech through real projects.
+Hello! I'm a Computer Science student at **Hanoi University of Science - Vietnam National University (HUS-VNU)**.
 
-**What I'm working on:**
-- Building an **XGBoost-based ML project** to solve real problems
-- Learning **Spring Boot 3** and creating RESTful APIs
-- Getting hands-on with **Python**, **Java**, and various dev tools
-- Experimenting with **Docker** for containerizing apps
-- Looking for an **internship** where I can learn and contribute to actual projects
-- Always down to collaborate and learn from more experienced devs!
+I am passionate about **Backend Engineering**, **Cybersecurity**, and digging deep into **System Internals**. I enjoy writing scripts to automate daily tasks and optimize operating system performance.
+
+**Current Focus:**
+- Developing an **XGBoost-based ML project** for practical data analysis.
+- Building robust RESTful APIs with **Spring Boot 3**.
+- Researching **Windows/Linux System Optimization** and automation scripts.
+- Exploring **Security best practices** in software development.
+- Seeking an **Internship** to apply my skills in a professional environment.
 
 ---
 
@@ -34,6 +35,7 @@ Hey! I'm a 3rd-year Computer Science student at **Hanoi University of Science - 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -51,3 +53,11 @@ Hey! I'm a 3rd-year Computer Science student at **Hanoi University of Science - 
 </div>
 
 ---
+
+## 📫 Connect With Me
+
+- **Email**: [bravechien2209@gmail.com](mailto:bravechien2209@gmail.com)
+- **LinkedIn**: [Brave9](https://www.linkedin.com/in/brave9/)
+- **Portfolio**: *Currently building my portfolio*
+
+*Open to internship opportunities and technical collaborations!*
