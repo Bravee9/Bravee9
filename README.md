@@ -27,6 +27,11 @@ I am passionate about **Backend Engineering**, **Cybersecurity**, and digging de
 - Exploring **Security best practices** in software development.
 - Seeking an **Internship** to apply my skills in a professional environment.
 
+**What I Bring**
+- Strong problem-solving skills through competitive programming
+- Team collaboration experience in university projects
+- Self-learning mindset and adaptability
+
 ---
 
 ## Tech Stack
