@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Brave 9
+# Hi, I'm Bùi Quang Chiến (Brave 9)
 
 ### Computer Science Student @ HUS-VNU • Backend Dev • Security & System Optimization
 
