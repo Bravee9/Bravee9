@@ -2,7 +2,7 @@
 
 # Hi, I'm Bùi Quang Chiến (Brave 9)
 
-### Computer Science Student @ HUS-VNU • Backend Dev • Security & System Optimization
+### Computer Science Student @ HUS-VNU • Backend Developer • Security & System Optimization
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bravee9&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Bravee9)
 &nbsp;
