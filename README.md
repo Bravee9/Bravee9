@@ -41,7 +41,7 @@ I am passionate about **Backend Engineering**, **Computer Vision**, and building
 <tr>
 <td width="50%">
 
-### [Computer Vision Labs](https://github.com/Bravee9/Computer-Vision-MAT3562)
+### [Computer Vision MAT3562](https://github.com/Bravee9/Computer-Vision-MAT3562)
 Image processing fundamentals → frequency domain analysis → geometric transforms → morphological operations. **5 labs** with from-scratch NumPy implementations, LaTeX reports & cheatsheets.
 
 `Python` `OpenCV` `NumPy` `FFT` `Canny Edge Detection`
