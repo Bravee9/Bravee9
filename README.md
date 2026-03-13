@@ -18,26 +18,46 @@
 
 Hello! I'm a Computer Science student at **Hanoi University of Science - Vietnam National University (HUS-VNU)**.
 
-I am passionate about **Backend Engineering**, **Computer Vision**, and building systems that solve real problems — from RESTful APIs to image processing pipelines.
+I am passionate about **Backend Engineering**, **Web Development**, **Computer Vision**, and building systems that solve real problems — from RESTful APIs to image processing pipelines.
 
 **Current Focus**
-- Building robust web applications with **Spring Boot 3** and **ReactJS**
+- Building full-stack web applications with **Spring Boot 3** (Java) and **ReactJS**
+- Designing and consuming **RESTful APIs** with proper OOP architecture
 - Implementing **Computer Vision** algorithms from scratch (NumPy) and with OpenCV
 - Developing **ML pipelines** for practical data analysis and prediction
-- Researching **Docker containerization** and deployment best practices
-- Seeking an **Internship** to apply my skills in a professional environment
+- Practising **Docker containerization** and deployment best practices
+- Seeking a software engineering **Internship** to apply my skills in a professional environment
 
 **What I Bring**
+- Strong OOP fundamentals and clean-code habits
 - Strong problem-solving skills through competitive programming
 - Team collaboration experience in university projects
 - Hands-on experience: from-scratch algorithm implementations, not just library calls
-- Self-learning mindset and adaptability
+- Self-learning mindset and ability to work under pressure
 
 ---
 
 ## Featured Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### [BraveMath Platform](https://github.com/Bravee9/bravemath)
+A free academic-resource sharing website for high-school & university students. Static site with responsive design, dark mode, smart search/filter, and fast document delivery via **Cloudflare Workers**.
+
+`JavaScript` `HTML` `CSS` `Tailwind CSS` `Cloudflare Workers` `GitHub Pages`
+
+</td>
+<td width="50%">
+
+### [Student Performance Prediction](https://github.com/Bravee9/Student-Performance-Prediction-XGBoost)
+End-to-end ML project predicting student math achievement from 30 demographic & behavioural features. Full EDA → PCA/t-SNE → clustering → model comparison (Linear Regression vs **XGBoost**) → 28-page academic report.
+
+`Python` `XGBoost` `scikit-learn` `Pandas` `NumPy` `LaTeX`
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -49,14 +69,16 @@ Image processing fundamentals → frequency domain analysis → geometric transf
 </td>
 <td width="50%">
 
-### [Machine Learning - MAT3533](https://github.com/Bravee9/Machine-Learning-MAT3533)
-Course materials from VNU ML course. Student performance prediction with XGBoost, feature engineering, model comparison & hyperparameter tuning.
+### [ManimBrave9 – Math Animations](https://github.com/Bravee9/ManimBrave9)
+Professional mathematical animation videos for Vietnamese students. Covers graph transformations (translation, reflection, homothety, absolute value) at 1080p/60fps with modular, reusable Python code architecture.
 
-`Python` `XGBoost` `scikit-learn` `Pandas`
+`Python` `Manim` `FFmpeg` `OOP`
 
 </td>
 </tr>
 </table>
+
+> Also see [Machine Learning - MAT3533](https://github.com/Bravee9/Machine-Learning-MAT3533) for additional ML coursework at HUS-VNU.
 
 ---
 
@@ -69,6 +91,7 @@ Course materials from VNU ML course. Student performance prediction with XGBoost
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3>Frameworks & Libraries</h3>
@@ -91,10 +114,22 @@ Course materials from VNU ML course. Student performance prediction with XGBoost
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![Bravee9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bravee9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravee9&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## Connect With Me
 
 - **Email**: [bravechien2209@gmail.com](mailto:bravechien2209@gmail.com)
 - **LinkedIn**: [Brave9](https://www.linkedin.com/in/brave9/)
-- **Portfolio**: Currently building my portfolio
+- **Portfolio**: [BraveMath](https://bravee9.github.io/bravemath/)
 
 *Open to internship opportunities and technical collaborations.*
