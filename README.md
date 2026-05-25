@@ -1,135 +1,124 @@
 <div align="center">
 
-# Hi, I'm Bùi Quang Chiến (Brave 9)
+<h1>Hi, I am Bui Quang Chien (Brave 9)</h1>
 
-### Computer Science Student @ HUS-VNU • Backend Developer • Computer Vision & AI
+<h3>Computer Science Student @ HUS-VNU | Computer Vision & Machine Learning Researcher</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Bravee9&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Bravee9)
+<a href="https://github.com/Bravee9"><img src="https://komarev.com/ghpvc/?username=Bravee9&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Bravee9?style=for-the-badge&color=blue)](https://github.com/Bravee9?tab=followers)
+<a href="https://github.com/Bravee9?tab=followers"><img src="https://img.shields.io/github/followers/Bravee9?style=for-the-badge&color=blue" alt="GitHub followers" /></a>
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/Bravee9?style=for-the-badge&color=yellow)](https://github.com/Bravee9)
+<a href="https://github.com/Bravee9"><img src="https://img.shields.io/github/stars/Bravee9?style=for-the-badge&color=yellow" alt="GitHub Stars" /></a>
 
 </div>
 
----
+<hr>
 
-## About Me
+<h3>About Me</h3>
 
-Hello! I'm a Computer Science student at **Hanoi University of Science - Vietnam National University (HUS-VNU)**.
+Hello! I am a Computer Science student at Hanoi University of Science - Vietnam National University (HUS-VNU).
 
-I am passionate about **Backend Engineering**, **Web Development**, **Computer Vision**, and building systems that solve real problems — from RESTful APIs to image processing pipelines.
+I am deeply passionate about Computer Vision, Machine Learning, and building end-to-end data processing pipelines. My transition from Backend Development to AI allows me to approach machine learning problems with a strong foundation in system architecture and deployment.
 
-**Current Focus**
-- Building full-stack web applications with **Spring Boot 3** (Java) and **ReactJS**
-- Designing and consuming **RESTful APIs** with proper OOP architecture
-- Implementing **Computer Vision** algorithms from scratch (NumPy) and with OpenCV
-- Developing **ML pipelines** for practical data analysis and prediction
-- Practising **Docker containerization** and deployment best practices
-- Seeking a software engineering **Internship** to apply my skills in a professional environment
+Current Focus
+- Implementing Computer Vision algorithms from scratch using NumPy and OpenCV
+- Building and optimizing Deep Learning pipelines with PyTorch and TensorFlow
+- Researching architectures like MobileNetV2 for efficient deployment on edge devices
+- Participating in ML competitions like DataFlow 2026 at HUS-VNU
+- Seeking a Computer Vision/AI Internship to solve practical industrial problems
 
-**What I Bring**
-- Strong OOP fundamentals and clean-code habits
-- Strong problem-solving skills through competitive programming
-- Team collaboration experience in university projects
-- Hands-on experience: from-scratch algorithm implementations, not just library calls
-- Self-learning mindset and ability to work under pressure
+What I Bring
+- Hands-on mathematical approach to ML models, not just black-box API calls
+- Backend engineering background (RESTful APIs, Spring Boot) for model deployment
+- Clean code architecture and reproducible research practices using LaTeX and Docker
 
----
+<hr>
 
-## Featured Projects
+<h3>Featured Projects</h3>
 
 <table>
 <tr>
 <td width="50%">
 
-### [BraveMath Platform](https://github.com/Bravee9/bravemath)
-A free academic-resource sharing website for high-school & university students. Static site with responsive design, dark mode, smart search/filter, and fast document delivery via **Cloudflare Workers**.
+<h3>Waste Item Classification Assistant</h3>
+Computer Vision pipeline to classify 6 types of waste using the TrashNet dataset. Implemented Transfer Learning via MobileNetV2 for feature extraction, combined with a Support Vector Machine (SVM) classifier for optimized margin separation. 
 
-`JavaScript` `HTML` `CSS` `Tailwind CSS` `Cloudflare Workers` `GitHub Pages`
+Python | PyTorch | OpenCV | MobileNetV2 | SVM
 
 </td>
 <td width="50%">
 
-### [Student Performance Prediction](https://github.com/Bravee9/Student-Performance-Prediction-XGBoost)
-End-to-end ML project predicting student math achievement from 30 demographic & behavioural features. Full EDA → PCA/t-SNE → clustering → model comparison (Linear Regression vs **XGBoost**) → 28-page academic report.
+<h3>Computer Vision - MAT3562</h3>
+Extensive laboratory implementations of image processing fundamentals. Includes frequency domain analysis, geometric transforms, morphological operations, and from-scratch NumPy implementations of Canny Edge Detection.
 
-`Python` `XGBoost` `scikit-learn` `Pandas` `NumPy` `LaTeX`
+Python | OpenCV | NumPy | FFT | LaTeX
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Computer Vision - MAT3562](https://github.com/Bravee9/Computer-Vision-MAT3562)
-Image processing fundamentals → frequency domain analysis → geometric transforms → morphological operations. **5 labs** with from-scratch NumPy implementations, LaTeX reports & cheatsheets.
+<h3>Student Performance Prediction</h3>
+End-to-end ML project predicting student math achievement from 30 features. Full Exploratory Data Analysis, PCA/t-SNE dimensionality reduction, and model comparison between Linear Regression and XGBoost. Includes a comprehensive 28-page academic report.
 
-`Python` `OpenCV` `NumPy` `FFT` `Canny Edge Detection`
+Python | XGBoost | scikit-learn | Pandas
 
 </td>
 <td width="50%">
 
-### [ManimBrave9 – Math Animations](https://github.com/Bravee9/ManimBrave9)
-Professional mathematical animation videos for Vietnamese students. Covers graph transformations (translation, reflection, homothety, absolute value) at 1080p/60fps with modular, reusable Python code architecture.
+<h3>ManimBrave9 - Math Animations</h3>
+Programmatic mathematical animation engine utilizing Manim. Features modular Python architecture to generate 1080p/60fps visualizations of complex graph transformations.
 
-`Python` `Manim` `FFmpeg` `OOP`
+Python | Manim | FFmpeg | OOP
 
 </td>
 </tr>
 </table>
 
-> Also see [Machine Learning - MAT3533](https://github.com/Bravee9/Machine-Learning-MAT3533) for additional ML coursework at HUS-VNU.
+<hr>
 
----
-
-## Tech Stack
+<h3>Tech Stack</h3>
 
 <div align="center">
 
-<h3>Programming Languages</h3>
+<h3>Core AI & Data Science</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-<h3>Frameworks & Libraries</h3>
+<h3>Software Engineering & Deployment</h3>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-<h3>Databases & Tools</h3>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
----
+<hr>
 
-## GitHub Stats
+<h3>GitHub Stats</h3>
 
 <div align="center">
 
-![Bravee9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bravee9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Bravee9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bravee9 GitHub Stats" />
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravee9&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravee9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
----
+<hr>
 
-## Connect With Me
+<h3>Connect With Me</h3>
 
-- **Email**: [bravechien2209@gmail.com](mailto:bravechien2209@gmail.com)
-- **LinkedIn**: [Brave9](https://www.linkedin.com/in/brave9/)
-- **Portfolio**: [BraveMath](https://bravee9.github.io/bravemath/)
+- Email: bravechien2209@gmail.com
+- LinkedIn: https://www.linkedin.com/in/brave9/
+- Portfolio: https://bravee9.github.io/bravemath/
 
-*Open to internship opportunities and technical collaborations.*
+Open to AI/Computer Vision internship opportunities and technical collaborations.
