@@ -9,14 +9,14 @@
 </div>
 <hr>
 <h3>Professional Summary</h3>
-<p>Hello! I am a third-year Computer Science student at Hanoi University of Science - Vietnam National University (HUS-VNU). My technical journey is driven by a deep passion for <b>Artificial Intelligence, Computer Vision, and Software Engineering</b>.</p>
-<p>I approach AI and Machine Learning problems with a rigorous mathematical foundation. Instead of just making high-level API calls, I dive deep into algorithms—from implementing image processing techniques (Canny Edge, FFT, Morphological transforms) from scratch using NumPy, to building end-to-end ML pipelines with robust data analysis. Furthermore, my strong background in Backend Development and System Architecture allows me to deploy AI models into scalable, real-world applications efficiently.</p>
-<p><b>Current Focus & Interests:</b></p>
+<p>Hello! I am a Computer Science student at Hanoi University of Science - Vietnam National University (HUS-VNU). My technical expertise lies at the intersection of <b>Artificial Intelligence, Computer Vision, and Software Engineering</b>.</p>
+<p>I approach AI problems with a rigorous mathematical foundation, diving deep into algorithms rather than relying solely on high-level APIs. Whether it is building end-to-end Machine Learning pipelines or implementing Computer Vision techniques from scratch, I focus on robustness and performance. Leveraging my strong background in Backend Development and System Architecture, I am highly capable of independently deploying complex AI models into scalable, real-world applications.</p>
+<p><b>Current Focus & Availability:</b></p>
 <ul>
   <li><b>Computer Vision & Deep Learning:</b> Developing and optimizing algorithms using PyTorch and OpenCV.</li>
   <li><b>System Architecture:</b> Building scalable web applications, RESTful APIs, and real-time systems (Spring Boot, Fastify, Docker).</li>
-  <li><b>Mathematical Educational Content:</b> Authored over 300+ pages of high-quality Mathematics documents utilizing LaTeX and programmatic animations (Manim).</li>
-  <li>Seeking a Computer Vision or AI Engineering internship to solve practical industrial problems.</li>
+  <li><b>Mathematical & Educational Content:</b> Authored over 300+ pages of high-quality Mathematics documents utilizing LaTeX and programmatic animations (Manim).</li>
+  <li><b>Availability:</b> Fully available for <b>full-time and remote</b> opportunities, equipped with the independence and end-to-end skills required to contribute effectively to industrial projects.</li>
 </ul>
 <hr>
 <h3>Featured Projects</h3>
@@ -87,4 +87,4 @@
   <li><b>Email:</b> bravechien2209@gmail.com</li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/brave9/">https://www.linkedin.com/in/brave9/</a></li>
 </ul>
-<p>I am currently open to internship opportunities in Artificial Intelligence, Computer Vision, and Software Engineering.</p>
+<p>I am currently open to full-time and remote roles in Artificial Intelligence, Computer Vision, and Software Engineering.</p>
