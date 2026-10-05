@@ -25,7 +25,7 @@
     <td width="50%" valign="top" style="padding: 10px; border: 1px solid #444;">
       <div align="center">
         <!-- Hãy cho ảnh brave-chat.png vào thư mục assets trên repo Github của bạn -->
-        <img src="assets/brave-chat.png" alt="Bravechat Banner" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+        <img src="assets/brave-chat.png" alt="Bravechat Banner" width="55%" style="border-radius: 8px; margin-bottom: 15px;" />
       </div>
       <h3>Bravechat: Real-time Communication</h3>
       <p>A highly scalable, real-time messaging platform built with a Turborepo monorepo architecture. Designed comprehensive PostgreSQL schemas and implemented secure JWT-based authentication with refresh token rotation.</p>
@@ -34,7 +34,7 @@
     <td width="50%" valign="top" style="padding: 10px; border: 1px solid #444;">
       <div align="center">
         <!-- Hãy cho ảnh bravemath-logo.png vào thư mục assets trên repo Github của bạn -->
-        <img src="assets/bravemath-logo.png" alt="BraveMath Banner" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+        <img src="assets/bravemath-logo.png" alt="BraveMath Banner" width="55%" style="border-radius: 8px; margin-bottom: 15px;" />
       </div>
       <h3>BraveMath & LaTeX Math Ecosystem</h3>
       <p>An academic sharing platform featuring a serverless backend with Cloudflare Workers. It hosts over 300+ pages of advanced mathematics materials meticulously typeset in LaTeX and dynamic educational animations generated via Manim.</p>
