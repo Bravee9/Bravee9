@@ -1,7 +1,7 @@
-<div align="center">
+﻿<div align="center">
 <h1>Bùi Quang Chiến (Brave 9)</h1>
 <h3>Computer Science Student @ HUS-VNU | AI Engineer & Software Developer</h3>
-<a href="https://github.com/Bravee9"><img src="https://komarev.com/ghpvc/?username=Bravee9&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+<a href="https://github.com/Bravee9"><img src="https://komarev.com/ghpvc/?username=Bravee9&color=1A659E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 &nbsp;
 <a href="https://github.com/Bravee9?tab=followers"><img src="https://img.shields.io/github/followers/Bravee9?style=for-the-badge&color=blue" alt="GitHub followers" /></a>
 &nbsp;
@@ -22,7 +22,7 @@
 <h3>Featured Projects</h3>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #444;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #173B5C;">
       <div align="center">
         <!-- Hãy cho ảnh brave-chat.png vào thư mục assets trên repo Github của bạn -->
         <img src="assets/brave-chat.png" alt="Bravechat Banner" width="55%" style="border-radius: 8px; margin-bottom: 15px;" />
@@ -31,7 +31,7 @@
       <p>A highly scalable, real-time messaging platform built with a Turborepo monorepo architecture. Designed comprehensive PostgreSQL schemas and implemented secure JWT-based authentication with refresh token rotation.</p>
       <p><b>Next.js | Fastify | PostgreSQL | Redis | Docker</b></p>
     </td>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #444;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #173B5C;">
       <div align="center">
         <!-- Hãy cho ảnh bravemath-logo.png vào thư mục assets trên repo Github của bạn -->
         <img src="assets/bravemath-logo.png" alt="BraveMath Banner" width="55%" style="border-radius: 8px; margin-bottom: 15px;" />
@@ -42,12 +42,12 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #444;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #173B5C;">
       <h3>Computer Vision Algorithms & Pipelines</h3>
       <p>Extensive implementation of image processing fundamentals from scratch using NumPy. Includes an intelligent Waste Item Classification pipeline utilizing Transfer Learning (MobileNetV2) and a Support Vector Machine (SVM) classifier for optimized margin separation.</p>
       <p><b>Python | PyTorch | OpenCV | NumPy | scikit-image</b></p>
     </td>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #444;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #173B5C;">
       <h3>Student Performance Prediction (ML)</h3>
       <p>An end-to-end Machine Learning pipeline utilizing Exploratory Data Analysis (EDA), PCA/t-SNE dimensionality reduction, and clustering. Compared and fine-tuned models including XGBoost and Random Forest, yielding a comprehensive 28-page academic report.</p>
       <p><b>Python | XGBoost | scikit-learn | Pandas</b></p>
@@ -77,9 +77,9 @@
 <hr>
 <h3>GitHub Analytics</h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bravee9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bravee9 GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bravee9&show_icons=true&bg_color=071A2C&title_color=5B92C2&text_color=EAF2F8&icon_color=1A659E&border_color=173B5C&hide_border=false&include_all_commits=true&count_private=true" alt="Bravee9 GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravee9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravee9&layout=compact&bg_color=071A2C&title_color=5B92C2&text_color=EAF2F8&icon_color=1A659E&border_color=173B5C&hide_border=false" alt="Top Languages" />
 </div>
 <hr>
 <h3>Contact Information</h3>
